@@ -29,7 +29,7 @@ export function Navbar() {
     >
       <nav className="container-lux flex items-center justify-between" aria-label="Primary">
         <Link href="#top" className="flex items-center gap-3" aria-label={`${BRAND.businessName} home`}>
-          <span className="font-display text-xl tracking-wide text-ivory">
+          <span className="font-display text-xl tracking-wide text-gold">
             {BRAND.businessName}
           </span>
         </Link>
